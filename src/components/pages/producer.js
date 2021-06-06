@@ -1,6 +1,15 @@
 import React from 'react';
 import '../../App.css';
+import About from '../About';
+import Footer from '../Footer';
 
-export default function producer() {
-  return <h1 className='producer'>producer</h1>;
+function producer() {
+  return (
+    <>
+      <About />
+      <Footer />
+    </>
+  );
 }
+
+export default producer;

@@ -11,12 +11,12 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/pan.jpg'
-              text='22歲廢物 aka廷相 學號B0829065'
+              text='22歲廢物 aka廷相　　　　學號B0829065'
               label='producer'
               path='/producer'
             />
             <CardItem
-              src='images/img-2.jpg'
+              src='images/wow.jpg'
               text='黃至祥 學號B0829060'
               label='producer'
               path='/producer'
